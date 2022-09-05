@@ -48,6 +48,7 @@ def main():
             # response = webhook.execute()
             exit()
         # else: # for benchmark
+        #    print(f"Address: {generatedAddress} | Mnemonic: {mnemonic_words}")
         #     with open("empty.txt", "a") as w:
         #         w.write(
         #             f"Address: {generatedAddress} | Mnemonic: {mnemonic_words}\n"
