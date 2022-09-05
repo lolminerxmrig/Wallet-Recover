@@ -3,7 +3,7 @@ If you are lucky, you may be able to recover your lost wallet.<br/>
 <br/>
 How to install:<br/>
 1. Install Python<br/>
-2. Install pip dependencies 'discord_webhook' and 'bip_utils' via terminal: pip install bip unils, pip install discord_webhook<br/>
+2. Install pip dependencies 'discord_webhook' and 'bip_utils' via terminal: pip install bip_utils, pip install discord_webhook<br/>
 <br/>
 Paste your wallet address in the config section at the top of the code.<br/>
 You can also set up an notification for Telegram or Discord (this feature is disabled by default).<br/>
