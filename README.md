@@ -2,7 +2,7 @@ Python scripts for generating a random mnemonic phrase of 12 words.<br/>
 If you are lucky, you may be able to recover your lost wallet.<br/>
 <br/>
 Paste your wallet address in the config section at the top of the code.<br/>
-You can also set up an alert for Telegram or Discord Webhook (this feature is disabled by default).<br/>
+You can also set up an notification for Telegram or Discord (this feature is disabled by default).<br/>
 If a solution is found, a result.txt file will be created in the folder, which will contain your mnemonic phrase.<br/>
 I advise you to use Multicore mode, it will be faster.<br/>
 <br/>
